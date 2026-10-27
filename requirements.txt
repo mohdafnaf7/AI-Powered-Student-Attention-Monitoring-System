@@ -1,0 +1,15 @@
+# AI-Powered Real-Time Student Attention and Engagement Monitoring System
+# Python dependencies. Install with:
+#   pip install -r requirements.txt
+
+opencv-python
+mediapipe
+numpy
+pandas
+scikit-learn
+streamlit>=1.33.0
+plotly
+matplotlib
+joblib
+python-dotenv
+ 
